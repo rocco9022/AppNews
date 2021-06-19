@@ -15,3 +15,7 @@ For see all the application working, you have to run the both at the same time. 
 ###### Login with Auth0:
 ![Screencast from 19-06-21 01_35_18](https://user-images.githubusercontent.com/74310843/122646640-92e5d480-d0f6-11eb-8b3b-3a5434d9ec9a.gif)
 
+###### Paginate and open news links:
+![Screencast from 19-06-21 12_10_28](https://user-images.githubusercontent.com/74310843/122646823-929a0900-d0f7-11eb-90bd-940d9359eddd.gif)
+
+
