@@ -16,5 +16,7 @@ Open (http://localhost:3000) to view it in the browser.
 
 For see all the application working, you have to run the both at the same time (api and client)
 
+![Screenshot from 2021-06-19 12-25-36](https://user-images.githubusercontent.com/74310843/122647302-fe7d7100-d0f9-11eb-9d7e-89f559c476f7.png)
+
 
 
