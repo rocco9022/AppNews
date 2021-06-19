@@ -19,7 +19,7 @@ You also need to set the ClientSecret, ClientId and Domain for your [Auth0](http
 
 Now, run `npm start` for see the project. 
 Go to http://localhost:3001 or run the client project in http://localhost:3000 and press the login button.
-![Screenshot from 2021-06-19 12-26-09](https://user-images.githubusercontent.com/74310843/122647250-ad6d7d00-d0f9-11eb-8f22-c9620d70297e.png)
-![Screenshot from 2021-06-19 12-26-17](https://user-images.githubusercontent.com/74310843/122647252-afcfd700-d0f9-11eb-8e76-4e7bea695a8e.png)
+![Screenshot from 2021-06-19 12-26-09](https://user-images.githubusercontent.com/74310843/122647388-6af87000-d0fa-11eb-9462-3567721111b1.png)
+![Screenshot from 2021-06-19 12-26-17](https://user-images.githubusercontent.com/74310843/122647390-6cc23380-d0fa-11eb-8f91-b69fcf8c5703.png)
 
 
