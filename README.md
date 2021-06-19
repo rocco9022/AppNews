@@ -18,4 +18,7 @@ For see all the application working, you have to run the both at the same time. 
 ###### Paginate and open news links:
 ![Screencast from 19-06-21 12_10_28](https://user-images.githubusercontent.com/74310843/122646823-929a0900-d0f7-11eb-90bd-940d9359eddd.gif)
 
+###### Order by date and find news using the dynamic search bar:
+![Screencast from 19-06-21 12_13_23 (1)](https://user-images.githubusercontent.com/74310843/122646920-0a683380-d0f8-11eb-8f49-003add2289fd.gif)
+
 
