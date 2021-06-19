@@ -1,8 +1,8 @@
 # AppNews
-Did it in typescript, included this tecnologies:
+Did it in Typescript, included this tecnologies:
 
-### React, Redux and material UI for de Front-end.
-### Node, NestJs and Auth0 for the Back-end and Login.
+### ReactJS, ReduxJS and material UI for de Front-end.
+### NodeJS, NestJS and Auth0 for the Back-end and Login.
 
 In the two project directory, you can run:
 ### `npm install` and `npm start`.
