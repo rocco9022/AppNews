@@ -18,5 +18,5 @@ Open (http://localhost:3000) to view it in the browser.
 
 For see all the application working, you have to run the both at the same time (api and client)
 
-It is going to be something like this...
+
 
